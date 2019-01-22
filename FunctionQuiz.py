@@ -4,14 +4,14 @@ def func0():
 
 def func1():
     X = 'NI!'
-    
+
 #func1()
 #print(X)
 
 def func2():
     X = 'NI'
     print(X)
-    
+
 #func2()
 #print(X)
 

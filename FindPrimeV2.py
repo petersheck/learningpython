@@ -12,7 +12,6 @@ def findPrimeV2(y):
         i += 1
     else:
         print(y, 'is prime')
-        
 
 findPrimeV2(104729)
 findPrimeV2(34443524541)

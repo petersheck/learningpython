@@ -1,6 +1,6 @@
 def f(a):
     a = 99
-    
+
 b = 88
 f(b)
 print(b)
@@ -14,7 +14,6 @@ L = [1, 2]
 print(X, L)
 changer(X, L)
 print(X, L)
-
 
 def multiple(x, y):
     x = 2

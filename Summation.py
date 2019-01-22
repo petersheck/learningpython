@@ -3,7 +3,6 @@ def summation(L):
         return 0;
     else:
         return L[0] + summation(L[1:]);
-    
 
 n = summation([1, 2, 3, 4, 5])
 print(n)

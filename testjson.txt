@@ -1,11 +1,11 @@
 {
-    "age": 40.5, 
+    "age": 40.5,
     "job": [
-        "dev", 
+        "dev",
         "mgr"
-    ], 
+    ],
     "name": {
-        "last": "Smith", 
+        "last": "Smith",
         "first": "Bob"
     }
 }

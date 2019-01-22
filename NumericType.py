@@ -28,7 +28,7 @@ if rem < 5:
     rnd10 = div * 10
 else:
     rnd10 = (div + 1) * 10
-print(rnd10) 
+print(rnd10)
 print(2 ** rnd10)
 h = 40 + 3.14
 print(h)
