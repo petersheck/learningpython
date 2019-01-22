@@ -1,3 +1,4 @@
+# Dictionary Type
 D1 = { 'name': 'Bob', 'age': 40}
 print(D1)
 D2 = { 'CTO' : D1}
